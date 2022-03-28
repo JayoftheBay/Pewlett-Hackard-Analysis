@@ -7,15 +7,15 @@ The purpose of this analysis is to help the company understand their expected si
 Here are the results that we were able to conclude:
  
 ### Number of Retiring Employees
-![Employee_Retiring_Percentage](Percentage of Retiring In All Employees.png)
+![Percentage_of_Retiring_In_All_Employees.png](Percentage_of_Retiring_In_All_Employees.png)
 >Here we can see that across the board roughly 23% of the employees are reaching retirement.
  
 ### Number of Mentors Employees
-![Employee_Mentor_Percentage](Percentage of Mentors In All Employees.png)
+![Percentage_of_Mentors_In_All_Employees.png](Percentage_of_Mentors_In_All_Employees.png)
 >Here we can see that across the board we have <1% of our employees being eligible to be a mentor.
  
 ### Mentorship Data
-![Mentor_Mentee_Ratio](Mentor_Mentee_Ratio.png)
+![Mentor_Mentee_Ratio.png](Mentor_Mentee_Ratio.png)
 >Based on the current count of mentors, each mentor would need to mentor 37-50 mentees to be able to sustain their employee numbers.
  
 ### Additional Notes
